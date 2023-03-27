@@ -1,0 +1,36 @@
+html{
+    margin: 0;
+    padding: 0;
+}
+body {
+    overflow-x: hidden;
+}
+#middle{
+    width: 100%;
+    margin: 0 2%;
+}
+.flagged1{
+    background: linear-gradient(#4aaee7,#70db70);
+    padding: 6% 5%;
+    margin: 3% 2%;
+    height:70vh;
+    border-radius: 20px;
+    color: #fff;
+}
+.flagged2{
+    padding: 2% 5%;
+    margin: 2% 2%;
+    height:70vh;
+    border-radius: 20px;
+}
+.flagged>h2{
+    margin: 10% 0;
+}
+.btn{
+    height:9vh;
+}
+#end{
+
+    bottom:0;
+}
+
